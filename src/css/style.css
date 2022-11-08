@@ -1,0 +1,17 @@
+.gameboard {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 350px;
+  gap: 10px;
+  margin: auto;
+}
+
+.item-cell {
+  width: 75px;
+  height: 75px;
+  border: 2px solid black;
+}
+
+.goblin-img {
+  width: 100%;
+}
